@@ -1,0 +1,98 @@
+{
+  "personal_info": {
+    "name": "Mohd Shahnawaz",
+    "email": "szcamps@gmail.com",
+    "phone": "9236520233",
+    "address": "Prayagraj, Uttar Pradesh, India, 211003",
+    "location": "Prayagraj",
+    "linkedin": "",
+    "github": "",
+    "portfolio": ""
+  },
+  "profile_summary": "Motivated and adaptable professional, starting B.Pharm at United Institute of Pharmacy, Allahabad, with strong communication and problem-solving skills. Seeking to contribute as a Customer Experience Executive at Slice by delivering excellent customer support and ensuring customer satisfaction.",
+  "education": [
+    {
+      "degree": "Bachelor of Pharmacy (B.Pharm)",
+      "institution": "United Institute of Pharmacy, Allahabad",
+      "duration": "2025 – Present",
+      "status": "Current",
+      "type": "Undergraduate"
+    },
+    {
+      "degree": "Class 12 (Science)",
+      "institution": "ISC",
+      "duration": "2024 – 2025",
+      "status": "Completed",
+      "type": "Higher Secondary"
+    },
+    {
+      "degree": "Class 10",
+      "institution": "ISC",
+      "duration": "2022 – 2023",
+      "status": "Completed",
+      "type": "Secondary"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Diploma in Computer Applications (DCA)",
+      "year": "2024",
+      "status": "Completed"
+    }
+  ],
+  "work_experience": [],
+  "technical_skills": {
+    "software": [
+      "MS Office (Word, Excel, PowerPoint)",
+      "Google Sheets",
+      "Basic CRM Tools"
+    ],
+    "communication": [
+      "Email & Chat Communication",
+      "Internet Research & Documentation"
+    ],
+    "tools": [
+      "MS Excel",
+      "Google Sheets",
+      "Online tools"
+    ]
+  },
+  "soft_skills": [
+    "Strong verbal and written communication skills",
+    "Problem-solving",
+    "Patience",
+    "Empathy",
+    "Ability to work under pressure",
+    "Meet deadlines",
+    "Handle multiple tasks effectively",
+    "Active listener with strong interpersonal skills",
+    "Quick learner",
+    "Adaptable to new tools and processes",
+    "Calm and professional under challenging situations"
+  ],
+  "projects_and_experience": [
+    {
+      "title": "Customer handling and support skills",
+      "description": "Assisted in resolving queries for peers and academic groups",
+      "type": "Academic/Personal"
+    },
+    {
+      "title": "Data management and reporting",
+      "description": "Experience using MS Excel, Google Sheets, and online tools",
+      "technologies": [
+        "MS Excel",
+        "Google Sheets"
+      ],
+      "type": "Technical"
+    }
+  ],
+  "languages": [],
+  "achievements": [],
+  "interests": [],
+  "metadata": {
+    "last_updated": "2025-08-26T06:26:26.075439",
+    "format_version": "1.0",
+    "extraction_method": "manual_input",
+    "total_sections": 8
+  }
+}
